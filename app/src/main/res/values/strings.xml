@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AndroidIsCool</string>
+    <string name="display">Отобразить</string>
+    <string name="share">Поделиться</string>
+    <string name="message">Привет, Android разработка — это круто!</string>
+</resources>
